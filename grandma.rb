@@ -20,7 +20,5 @@ def speak_to_grandma(phrase)
   else
     response = "HUH?! SPEAK UP, SONNY!"
   end
-
-
   return response
 end
